@@ -80,7 +80,7 @@ $count=mysqli_num_rows($find_query);
                         
                         </span></p>
 
-                    <p><span class="sub_heading">Reviw / Response</span></p>
+                    <p><span class="sub_heading">Review / Response</span></p>
 
                     <p>
 
